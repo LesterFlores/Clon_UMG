@@ -1,0 +1,247 @@
+body .home{
+    --administracion: #fac187;
+    --arquitectura: #abb0ac;
+    --comunicaciones: #7d2b3b;
+    --derecho: #bc2b33;
+    --economicas: #f18f30;
+    --enfermeria: #ffffff;
+    --humanidades: #0879bb;
+    --i2qb3: #2c9fb4;
+    --ingenieria: #818181;
+    --medicina: #fed300;
+    --odontologia: #a788bb;
+    --psicologia: #24a69a;
+    --sistemas: #030406;
+    --teologia: #252a6e;
+    --capellania: #0073b2;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --bg-color: #c6c5c5;
+    --nav-bg-color: #c60028;
+    background: var(--bg-color);
+    margin: 34px 0 0;
+    min-width: var(--min-width);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.Contenedor{
+    display:flex;
+    
+}
+.imagenes{
+    background: #0d4266;
+    width: auto;
+    padding: 5px;
+    text-align: end;
+}
+.dos{
+    background: #1770a6;
+    width: 600px;
+    text-align: center;
+}
+
+.cuatro{
+    background: #1770a6;
+    width: 800px;
+    text-align: center;
+}
+.dos2{
+    background: #147aae;
+    width: 600px;
+    text-align: center;
+}
+
+.cuatro4{
+    background: #147aae;
+    width: 800px;
+    text-align: center;
+}
+.opciones1{
+    display: inline-flex;
+    list-style: none;
+}
+.opciones2{
+    display: inline-flex;
+    list-style: none;
+}
+.opciones1 li{
+    margin: 4px;
+    width: 259px;
+    color: white;
+    font-family: Cabo Rounded;
+    font-size: 19px;
+}
+.opciones2 li{
+    margin: 4px;
+    width: 250px;
+    color: white;
+    font-family: Cabo Rounded;
+    font-size: 19px;
+}
+.UMG{
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%);
+    width: 200px;
+    margin: 0;
+    top: 50px;
+    z-index: 9;
+}
+.Facebook{
+    width: 27px;
+    margin-right: 5px;
+}
+.Tw{
+    width: 27px;
+    margin-right: 5px;
+}
+.IN{
+    width: 27px;
+    margin-right: 5px;
+}
+
+.Instagram{
+    width: 27px;
+    margin-right: 5px;
+}
+.Google{
+    width: 27px;
+    margin-right: 5px;
+}
+.miumg{
+    width: 130px;
+    margin-right: 110px;
+    padding: 5px;
+}
+span{
+    border-left: 1px solid #74baa0;
+    display: inline-block;
+    margin: 0 3px;
+    height: 24px;
+}
+.buscar{
+    width: 27px;
+    margin-right: 5px;
+}
+.capell{
+    width: 27px;
+    margin-right: 5px;
+}
+.ssg{
+    width: 27px;
+    margin-right: 5px;
+}
+.fm{
+    width: 27px;
+    margin-right: 5px;
+}
+.cite{
+    width: 27px;
+    margin-right: 5px;
+}
+
+.Portada1 cite{
+    --administracion: #fac187;
+    --arquitectura: #abb0ac;
+    --comunicaciones: #7d2b3b;
+    --derecho: #bc2b33;
+    --economicas: #f18f30;
+    --enfermeria: #ffffff;
+    --humanidades: #0879bb;
+    --i2qb3: #2c9fb4;
+    --ingenieria: #818181;
+    --medicina: #fed300;
+    --odontologia: #a788bb;
+    --psicologia: #24a69a;
+    --sistemas: #030406;
+    --teologia: #252a6e;
+    --capellania: #0073b2;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --bg-color: #c6c5c5;
+    --nav-bg-color: #c60028;
+    font-family: Alegreya;
+}
+
+.Portada1 picture source{
+    --administracion: #fac187;
+    --arquitectura: #abb0ac;
+    --comunicaciones: #7d2b3b;
+    --derecho: #bc2b33;
+    --economicas: #f18f30;
+    --enfermeria: #ffffff;
+    --humanidades: #0879bb;
+    --i2qb3: #2c9fb4;
+    --ingenieria: #818181;
+    --medicina: #fed300;
+    --odontologia: #a788bb;
+    --psicologia: #24a69a;
+    --sistemas: #030406;
+    --teologia: #252a6e;
+    --capellania: #0073b2;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --bg-color: #c6c5c5;
+    --nav-bg-color: #c60028;
+    font-family: Alegreya;
+}
+.Portada1{
+    position: relative;
+    --administracion: #fac187;
+    --arquitectura: #abb0ac;
+    --comunicaciones: #7d2b3b;
+    --derecho: #bc2b33;
+    --economicas: #f18f30;
+    --enfermeria: #ffffff;
+    --humanidades: #0879bb;
+    --i2qb3: #2c9fb4;
+    --ingenieria: #818181;
+    --medicina: #fed300;
+    --odontologia: #a788bb;
+    --psicologia: #24a69a;
+    --sistemas: #030406;
+    --teologia: #252a6e;
+    --capellania: #0073b2;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --bg-color: #c6c5c5;
+    --nav-bg-color: #c60028;
+    font-family: Alegreya;
+    box-sizing: border-box;
+    height: auto;
+    overflow: auto;
+    position: relative;
+}
+.FondoUMG{
+    --administracion: #fac187;
+    --arquitectura: #abb0ac;
+    --comunicaciones: #7d2b3b;
+    --derecho: #bc2b33;
+    --economicas: #f18f30;
+    --enfermeria: #ffffff;
+    --humanidades: #0879bb;
+    --i2qb3: #2c9fb4;
+    --ingenieria: #818181;
+    --medicina: #fed300;
+    --odontologia: #a788bb;
+    --psicologia: #24a69a;
+    --sistemas: #030406;
+    --teologia: #252a6e;
+    --capellania: #0073b2;
+    --max-width: 1200px;
+    --min-width: 320px;
+    --bg-color: #c6c5c5;
+    --nav-bg-color: #c60028;
+    font-family: Alegreya;
+}
+
+a{
+    color: white;
+    font-family: Cabo Rounded;
+    font-size: 19px;
+    text-decoration: none;
+}
